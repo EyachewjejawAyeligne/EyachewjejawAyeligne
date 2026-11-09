@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EyachewjejawAyeligne
+- 👋 Hi, I’m @Eyachew jejaw
 - 👀 I’m interested in ...coding
 - 🌱 I’m currently learning ...software development
 - 💞️ I’m looking to collaborate on ...coop
